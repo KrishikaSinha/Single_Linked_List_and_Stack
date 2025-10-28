@@ -22,12 +22,12 @@ The Library Book Management System is a C++ console application that manages lib
 
 🔄 Process Flow:
 
-Insert Books into the library using linked list operations.
+1. Insert Books into the library using linked list operations.
 
-Search or Delete Books based on Book ID.
+2. Search or Delete Books based on Book ID.
 
-Issue/Return Books — the system updates their status and records each action in a stack.
+3. Issue/Return Books — the system updates their status and records each action in a stack.
 
-Undo Transaction — removes the top stack entry and reverses the last action.
+4. Undo Transaction — removes the top stack entry and reverses the last action.
 
-Display Books and View Transactions to see current records and history.
+5. Display Books and View Transactions to see current records and history.
